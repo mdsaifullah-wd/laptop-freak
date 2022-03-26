@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Laptop Freak
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click here to see live site [Laptop Freak](https://latopfreak.netlity.app).
 
 ## Available Scripts
 
