@@ -1,6 +1,6 @@
 # Laptop Freak
 
-Click here to see live site [Laptop Freak](https://latopfreak.netlity.app).
+Click here to see live site [Laptop Freak](https://laptopfreak.netlify.app).
 
 ## Project Description
 
