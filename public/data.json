@@ -1,0 +1,74 @@
+[
+  {
+    "id": 101,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 102,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 103,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 104,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 105,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 106,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 107,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 108,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 109,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 110,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 111,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  },
+  {
+    "id": 112,
+    "name": "Sample of Name",
+    "price": 10000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+  }
+]
