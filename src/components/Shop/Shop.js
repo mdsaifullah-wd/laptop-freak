@@ -21,6 +21,7 @@ const Shop = () => {
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);
+  console.log(products);
   return (
     <main className='grid grid-cols-3 gap-8 p-10'>
       <div className='product-container col-span-2 grid grid-cols-3 gap-6'>

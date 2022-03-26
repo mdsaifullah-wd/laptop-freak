@@ -1,74 +1,74 @@
 [
   {
     "id": 101,
-    "name": "Sample of Name 1",
-    "price": 10000,
+    "name": "HP Pavilion Aero 13-be0345AU",
+    "price": 87600,
     "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
   },
   {
     "id": 102,
-    "name": "Sample of Name 2",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Lenovo IdeaPad Slim 3i 15ITL",
+    "price": 44400,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/lenovo-ideapad-slim-3i-15itl-intel-core-i3-1005g1-41635148574.webp"
   },
   {
     "id": 103,
-    "name": "Sample of Name 3",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Dell Vostro 14 3400 Intel Core i3",
+    "price": 45800,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/dell-vostro-14-3400-intel-core-i3-1115g4-14-inch-71632804618.webp"
   },
   {
     "id": 104,
-    "name": "Sample of Name 4",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Acer Nitro 7 AN715-51",
+    "price": 104500,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/acer-nitro-7-an715-51-intel-core-i5-9300h-156-41632804887.webp"
   },
   {
     "id": 105,
-    "name": "Sample of Name 5",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Avita LIBER Intel Core i5",
+    "price": 49500,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/avita-liber-intel-core-i5-8250u-133-inch-fhd-ips-101626943733.webp"
   },
   {
     "id": 106,
-    "name": "Sample of Name 6",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "HP 15s-du1117TU Intel PQC",
+    "price": 37800,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-15s-du1117tu-intel-pqc-silver-n5030-156-inch-21637038561.webp"
   },
   {
     "id": 107,
-    "name": "Sample of Name 7",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Lenovo IdeaPad Slim 3i 15IGL",
+    "price": 37500,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/lenovo-ideapad-slim-3i-15igl-intel-cdc-n4020-156-11646040076.webp"
   },
   {
     "id": 108,
-    "name": "Sample of Name 8",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Acer Extensa 15 EX215-52-384M",
+    "price": 41500,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/acer-extensa-15-ex215-52-384m-10th-gen-intel-core-11600768608.webp"
   },
   {
     "id": 109,
-    "name": "Sample of Name 9",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Dell G7 15-7590 Intel Core i7",
+    "price": 131000,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/dell-g7-15-7590-9th-gen-intel-core-i7-9750h-grey-11599394510.webp"
   },
   {
     "id": 110,
-    "name": "Sample of Name 10",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Lenovo IdeaPad Slim 3i 15IIL",
+    "price": 45400,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/lenovo-ideapad-slim-3i-iil-10th-gen-intel-core-i3-11594899464.webp"
   },
   {
     "id": 111,
-    "name": "Sample of Name 11",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "HP 15s-du3023TU Intel Core i3",
+    "price": 50500,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-15s-du3023tu-intel-core-i3-1115g4-156-inch-21630846075.webp"
   },
   {
     "id": 112,
-    "name": "Sample of Name 12",
-    "price": 10000,
-    "img": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp"
+    "name": "Acer Extensa 15 EX215-52-58SQ",
+    "price": 53300,
+    "img": "https://www.ryanscomputers.com/storage/products/medium/acer-extensa-15-ex215-52-58sq-intel-core-i5-51622268932.webp"
   }
 ]
