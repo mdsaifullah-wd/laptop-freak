@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from "react";
-import CartItems from "../Item/Item";
+import CartItem from "../CardItem/CardItem";
 import Product from "../Product/Product";
 
 const Shop = () => {
   const [products, setProducts] = useState([]);
   const [cart, setCart] = useState([]);
   const [randomCartIndex, setRandomCartIndex] = useState(-1);
+  console.log(randomCartIndex);
   console.log(cart.length);
   const handleAddToCart = (product) => {
     !cart.includes(product) && cart.length < 4 && setCart([...cart, product]);
@@ -23,8 +24,8 @@ const Shop = () => {
   }, []);
   console.log(products);
   return (
-    <main className='grid grid-cols-3 gap-8 p-10'>
-      <div className='product-container col-span-2 grid grid-cols-3 gap-6'>
+    <main className='grid md:grid-cols-3 gap-8 p-10'>
+      <div className='product-container md:col-span-2 grid md:grid-cols-3 gap-6'>
         {products.map((product) => (
           <Product
             product={product}
@@ -32,24 +33,32 @@ const Shop = () => {
             handleAdToCart={handleAddToCart}></Product>
         ))}
       </div>
-      <div className='shopping-cart'>
+      <div className='shopping-cart bg-light p-6 pt-8 sticky top-0'>
         <div>
-          {cart.map((item) => (
-            <CartItems item={item} key={item.id}></CartItems>
-          ))}
-          <button
-            onClick={handleChooseOne}
-            className='w-full py-2 bg-dark hover:bg-primary text-white hover:text-dark rounded-lg font-medium flex justify-center items-center'>
-            Choose One
-          </button>
-          <button
-            onClick={handleClearCart}
-            className='mt-10 py-2 bg-dark hover:bg-primary text-white hover:text-dark rounded-lg font-medium flex justify-center items-center'>
-            Choose Again
-          </button>
-          <br />
-          <br />
-          <p>Item is: {cart[randomCartIndex]?.name}</p>
+          <div className='w-full'>
+            <div className='w-4/5 mx-auto mb-10'>
+              {cart.map((item) => (
+                <CartItem item={item} key={item.id}></CartItem>
+              ))}
+            </div>
+            <div>
+              <button
+                onClick={handleChooseOne}
+                className='w-3/4 mx-auto py-2 bg-green hover:bg-primary text-white hover:text-dark rounded-lg font-medium flex justify-center items-center'>
+                Choose One
+              </button>
+              <button
+                onClick={handleClearCart}
+                className='w-3/4 mx-auto mt-10 py-2 bg-dark hover:bg-primary text-white hover:text-dark rounded-lg font-medium flex justify-center items-center'>
+                Choose Again
+              </button>
+            </div>
+          </div>
+          <div className='w-4/5 mx-auto mt-10'>
+            <p className='p-3 mb-2 bg-medium rounded shadow'>
+              {cart[randomCartIndex]?.name}
+            </p>
+          </div>
         </div>
       </div>
     </main>
